@@ -94,8 +94,7 @@ Follow these steps to set up the project locally:
     ```
 
 8.  **Access the Application:**
-    * Open your web browser and go to `http://127.0.0.1:8000/`
-    * Access the admin panel at `http://127.0.0.1:8000/admin/` (log in with your superuser credentials).
+    * Open your web browser and go to `http://127.0.0.1:8000/projects/`
 Username-Hellovr
 Password-Qwerty890#@
-    * Access the project list page at `http://127.0.0.1:8000/projects/`
+    
